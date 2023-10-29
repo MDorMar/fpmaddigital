@@ -1,0 +1,35 @@
+{
+	"grupo1": {
+		"codGrupo":"DAW2",
+		"nombreGrupo":"Desarrollo de aplicaciones web - 2º curso",
+		"tutor":"Laura Rodríguez",
+		"alumnos":[
+			{
+				"nombreAlumno":"Pedro Martín",
+				"notaMedia":4.2
+			},{
+				"nombreAlumno":"Marta Pascual",
+				"notaMedia":9.3
+			},{
+				"nombreAlumno":"Juan Córdoba",
+				"notaMedia":1.7
+			}
+		]
+	},"grupo2": {
+		"codGrupo":"DAM2",
+		"nombreGrupo":"Desarrollo de aplicaciones multiplataforma - 2º curso",
+		"tutor":"Ramón Rato",
+		"alumnos":[
+			{
+				"nombreAlumno":"Rosa Medrano",
+				"notaMedia":2.1
+			},{
+				"nombreAlumno":"Pablo Chaverri",
+				"notaMedia":8.6
+			},{
+				"nombreAlumno":"Noelia Peinado",
+				"notaMedia":9.6
+			}
+		]
+	}
+}
